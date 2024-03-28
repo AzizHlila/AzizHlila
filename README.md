@@ -9,7 +9,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
 
-- 🌱 I’m currently learning **Django & React**
+- 🌱 I’m currently learning **Spring Boot & Angular**
 
 - 💬 Ask me about **Machine Learning**
 
